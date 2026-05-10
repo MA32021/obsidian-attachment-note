@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-att-note",
+  "name": "Attachment Note",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Create markdown notes for binary files with MD5 hash tracking",
+  "author": "MA32021",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}

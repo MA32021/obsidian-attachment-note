@@ -1,0 +1,8 @@
+{
+  "inputFolder": "_eml_inbox",
+  "outputFolder": "processed_attachments",
+  "autoProcess": true,
+  "promptForName": true,
+  "recursiveScan": true,
+  "noteTemplate": "# {{filename}}\n\n## File Information\n\n- **Original name:** {{originalName}}\n- **MD5 Hash:** {{hash}}\n- **File size:** {{size}}\n- **File type:** {{extension}}\n- **Created:** {{date}}\n\n## Description\n\nAdd your notes here.\n\n## Linked File\n\n![[{{hash}}.{{extension}}]]"
+}
