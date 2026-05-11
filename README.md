@@ -234,15 +234,8 @@ You can use the YAML frontmatter with Dataview to query your attachment notes:
 
 ```dataview
 TABLE originalName, fileType, fileSize, processed
-FROM #attachment
 WHERE hash != null
 SORT processed DESC
-```
-
-```dataview
-LIST originalName
-FROM -"Templates"
-WHERE fileType = "pdf"
 ```
 
 ## Use Cases
