@@ -296,7 +296,7 @@ npm run build
 
 ## Support
 
-- Report issues issues on on [Git [GitHub](Hub](https://github.com/MA32021/obsidian-attachment-note/issues)
+- Report issues issues on https://github.com/MA32021/obsidian-attachment-note/issues
 - Feature requests welcome
 - Contributions welcome
 
